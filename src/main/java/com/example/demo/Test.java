@@ -5,4 +5,8 @@ public class Test {
     String bb ="bb";
     String cc = "cc";
     String dd = "dd33";
+
+    public static void main(String[] args) {
+        System.out.println("===========");
+    }
 }
