@@ -1,7 +1,7 @@
 package com.example.demo;
 
 public class Test {
-    String aa = "";
+    String aa = "34";
     String bb ="bb";
     String cc = "cc";
     String dd = "dd33";
