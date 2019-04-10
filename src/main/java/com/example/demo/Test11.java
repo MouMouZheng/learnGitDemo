@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Test {
     String aa = "34";
-    String bb ="bb";
+    String bb ="bb7777";
     String cc = "cc";
     String dd = "dd33";
 
