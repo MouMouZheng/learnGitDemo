@@ -1,11 +1,11 @@
 package com.example.demo;
 
 public class Test {
-    String aa = "12";
-    String bb ="bb123bb666";
-    String cc = "cc12312312";
-    String dd = "dd33123";
-    String ee = "ee";
+    String aa = "34";
+    String bb ="bb456bb7777";
+    String cc = "cc";
+    String dd = "dd33";
+
     public static void main(String[] args) {
         System.out.println("===========");
     }
