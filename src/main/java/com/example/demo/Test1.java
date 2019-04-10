@@ -6,4 +6,5 @@ public class Test {
     String dd = "dd";
     String ee = "ee";
     String ff = "abc"
+    String gg = "gg";
 }
